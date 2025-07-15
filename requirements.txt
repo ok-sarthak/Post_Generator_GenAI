@@ -1,0 +1,11 @@
+streamlit==1.35.0
+langchain==0.2.14
+langchain-core==0.2.39
+langchain-community==0.2.12
+langchain_groq==0.1.9
+pandas==2.0.2
+python-dotenv==1.0.0
+plotly==5.17.0
+wordcloud==1.9.2
+nltk==3.8.1
+textstat==0.7.3
